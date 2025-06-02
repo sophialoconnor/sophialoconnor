@@ -1,6 +1,6 @@
 # sophialoconnor
 # <h1 align="center">Hi 👋, I'm Sophia</h1>
-# <h3 align="center">A comp sci student at TCD with a passion for design</h3>
+# <h3 align="center">A comp sci student at TCD with a passion for design🌸🌷 </h3>
 
 # <h3 align="left">Connect with me:</h3> 
 # <a href="https://www.leetcode.com/sophialoconnor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sophialoconnor" height="30" width="40" /></a>
